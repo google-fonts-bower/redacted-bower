@@ -1,0 +1,17 @@
+{
+    "name": "redacted-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Christian Naths"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/redacted-bower.git"
+    },
+    "description": "Redacted font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
